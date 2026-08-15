@@ -1,9 +1,15 @@
 # Board (generiert von platform/scripts/board.py — nicht von Hand editieren)
 
-Stand: 2026-08-15 · Tickets: 6
+Stand: 2026-08-15 · Tickets: 12
 
 
-## done (6)
+## open (1)
+
+| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
+|---|---|---|---|---|---|---|
+| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 + P4-Abnahme (Baseline p4-v1.0) | decision-request | pl | hoch | 1 | — |
+
+## done (11)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -13,3 +19,8 @@ Stand: 2026-08-15 · Tickets: 6
 | [T-0004](tickets/T-0004.md) | SWE.2: ADR-006 — localhost-frei/remote-PIN, Briefkasten-Ablage, LAN-Prozedur | task | arch | hoch | 0 | — |
 | [T-0005](tickets/T-0005.md) | DR: G1 — Anforderungs-Erweiterung Fernzugriff & Briefkasten (STK-016, SWR-048–052) freigeben | decision-request | pl | hoch | 0 | — |
 | [T-0006](tickets/T-0006.md) | DR: G2 — ADR-006 (localhost-frei/remote-PIN, Briefkasten-Ablage, LAN-Prozedur) freigeben | decision-request | pl | hoch | 0 | — |
+| [T-0007](tickets/T-0007.md) | MAN.3: Sprint-1-Planning — Umsetzung + Abnahme | task | pl | hoch | 1 | — |
+| [T-0008](tickets/T-0008.md) | SWE.3: PIN-Schutz + LAN-Betrieb (SWR-048/049) | task | dev | hoch | 1 | — |
+| [T-0009](tickets/T-0009.md) | SWE.3: Briefkasten — Modul, API, Chat-Tab, Cockpit (SWR-050/051) | task | dev | hoch | 1 | — |
+| [T-0010](tickets/T-0010.md) | SWE.3: Mobile-Feinschliff (SWR-052) | task | dev | hoch | 1 | — |
+| [T-0011](tickets/T-0011.md) | MAN.3: Sprint-1-Report + Retro + Abnahmebilanz K1-K5 | task | pl | hoch | 1 | — |
