@@ -3,7 +3,7 @@
 Stand: 2026-08-15 · Tickets: 1
 
 
-## open (1)
+## done (1)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
