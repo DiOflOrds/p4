@@ -3,13 +3,7 @@
 Stand: 2026-08-15 · Tickets: 12
 
 
-## open (1)
-
-| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
-|---|---|---|---|---|---|---|
-| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 + P4-Abnahme (Baseline p4-v1.0) | decision-request | pl | hoch | 1 | — |
-
-## done (11)
+## done (12)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -24,3 +18,4 @@ Stand: 2026-08-15 · Tickets: 12
 | [T-0009](tickets/T-0009.md) | SWE.3: Briefkasten — Modul, API, Chat-Tab, Cockpit (SWR-050/051) | task | dev | hoch | 1 | — |
 | [T-0010](tickets/T-0010.md) | SWE.3: Mobile-Feinschliff (SWR-052) | task | dev | hoch | 1 | — |
 | [T-0011](tickets/T-0011.md) | MAN.3: Sprint-1-Report + Retro + Abnahmebilanz K1-K5 | task | pl | hoch | 1 | — |
+| [T-0012](tickets/T-0012.md) | DR: G4 Sprint 1 + P4-Abnahme (Baseline p4-v1.0) | decision-request | pl | hoch | 1 | — |
