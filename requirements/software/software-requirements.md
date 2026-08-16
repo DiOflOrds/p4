@@ -24,4 +24,12 @@
 
 ## Traceability
 
-STK-016 ← SWR-048–052 (complete; no orphans). DoD checklist applied per SWR (2026-08-15 RM). Security guardrail (kein Internet-Expose, PIN ≠ Passwortersatz im offenen Netz) dokumentiert in ADR-006 + Runbook. G1 pending (T-0005); Schreibschutz-Modell und Briefkasten-Ablage in G2 (T-0006).
+STK-016 ← SWR-048–052, SWR-083 (complete; no orphans). DoD checklist applied per SWR (2026-08-15 RM). Security guardrail (kein Internet-Expose, PIN ≠ Passwortersatz im offenen Netz) dokumentiert in ADR-006 + Runbook. G1 pending (T-0005); Schreibschutz-Modell und Briefkasten-Ablage in G2 (T-0006). v1.1: +SWR-083 (Betriebs-CR pm/T-0015 aus pm/N-0018, PM-Beschluss B022).
+
+## Nachtrag v1.1 (pm/N-0018, PM-Beschluss B022)
+
+*Betriebs-CR nach dem P4-Abschluss: Leserichtung des Team-Chats. Keine neue Projekt-Baseline — `p4-v1.0` bleibt Abnahmereferenz. Die API-Reihenfolge aus SWR-050 bleibt unverändert chronologisch; nur die Darstellung dreht.*
+
+| ID | Requirement | Trace | Verification | Prio | Status |
+|---|---|---|---|---|---|
+| SWR-083 | The team-chat view shall present the conversation newest-first while the API keeps serving it chronologically (SWR-050 unchanged), and shall place the compose form above the history so writing a message never requires scrolling past the whole conversation; each entry keeps its message and team reply together, and mobile layout stays free of horizontal overflow. | STK-016 | UI acceptance checklist (browser + phone: newest entry on top, reply stays with its message, compose form reachable without scrolling) | medium | reviewed |
